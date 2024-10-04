@@ -261,6 +261,7 @@ tsdb_DEPS = \
 	$(JACKSON_CORE)	\
 	$(JACKSON_DATABIND)	\
 	$(JAVACC)	\
+	$(JAXB)	\
 	$(JEXL)	\
 	$(JGRAPHT)	\
 	$(KRYO)	\
